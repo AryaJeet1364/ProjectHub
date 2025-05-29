@@ -16,6 +16,9 @@
 ## 📡 IoT Projects
 - [IOT (Tinkercad sim)](https://github.com/AryaJeet1364/IoTProjects)
 
+## 📡 Quantum Computing Projects - Qiskit in Google Colab
+- [Single Qubit Gates](https://github.com/AryaJeet1364/QuantumComputing/blob/main/SingleQubitGatesinQiskit.ipynb)
+
 ## Other Projects
 - [Chess Engine](https://github.com/AryaJeet1364/ChessEngine)
 - [Devjams Hackathon (My contribution)](https://github.com/AryaJeet1364/DevJams)
