@@ -18,6 +18,8 @@
 
 ## 📡 Quantum Computing Projects - Qiskit in Google Colab
 - [Single Qubit Gates](https://github.com/AryaJeet1364/QuantumComputing/blob/main/SingleQubitGatesinQiskit.ipynb)
+- [Multi Qubit Gates](https://github.com/AryaJeet1364/QuantumComputing/blob/main/MultiQubitGates.ipynb)
+- [Bell States](https://github.com/AryaJeet1364/QuantumComputing/blob/main/BellStates.ipynb)
 
 ## Other Projects
 - [Chess Engine](https://github.com/AryaJeet1364/ChessEngine)
