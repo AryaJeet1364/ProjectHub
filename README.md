@@ -5,6 +5,7 @@
 - [Fake News Predictor (ML)](https://github.com/AryaJeet1364/MLProjects/blob/main/FakeNewsPredictor.ipynb)
 - [Sentiment Analysis (NLP)](https://github.com/AryaJeet1364/SentimentAnalysis)
 - [Code Review AI (Gemini API)](https://github.com/AryaJeet1364/CodeReview)
+- [Vitals Review AI (Gemini API)](https://github.com/AryaJeet1364/VitalsReview)
 
 ## 🌐 Web Development (Frontend/Backend/Both)
 - [Web Chat App (FullStack)](https://github.com/AryaJeet1364/ChatApplication)
