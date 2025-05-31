@@ -22,10 +22,9 @@
 - [Multi Qubit Gates](https://github.com/AryaJeet1364/QuantumComputing/blob/main/MultiQubitGates.ipynb)
 - [Bell States](https://github.com/AryaJeet1364/QuantumComputing/blob/main/BellStates.ipynb)
 - [Quantum Teleportation](https://github.com/AryaJeet1364/QuantumComputing/blob/main/QuantumTeleportation.ipynb)
+- [Deutsch's Algo](https://github.com/AryaJeet1364/QuantumComputing/blob/main/DeutschAlgo.ipynb)
 
 ## Other Projects
 - [Chess Engine](https://github.com/AryaJeet1364/ChessEngine)
 - [Devjams Hackathon (My contribution)](https://github.com/AryaJeet1364/DevJams)
 - [CodeCortex (My contribution)](https://github.com/AryaJeet1364/CodeCortex)
-
-- 
