@@ -3,7 +3,9 @@
 ## 🤖 AI & ML Projects
 - [Diabetes Predictor (ML)](https://github.com/AryaJeet1364/MLProjects/blob/main/DiabetesPredictor.ipynb)
 - [Fake News Predictor (ML)](https://github.com/AryaJeet1364/MLProjects/blob/main/FakeNewsPredictor.ipynb)
-- [Sentiment Analysis (NLP)](https://github.com/AryaJeet1364/SentimentAnalysis)
+- [Sentiment Analysis (NLP-NLTK)](https://github.com/AryaJeet1364/SentimentAnalysis)
+- [LinearRegression(PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/LinearRegression.ipynb)
+- [MNISTDigitClassification(PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/MNISTDigitClassification.ipynb)
 - [Code Review AI (Gemini API)](https://github.com/AryaJeet1364/CodeReview)
 - [Vitals Review AI (Gemini API)](https://github.com/AryaJeet1364/VitalsReview)
 
