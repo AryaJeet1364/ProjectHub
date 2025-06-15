@@ -1,13 +1,34 @@
 # ProjectHub
 
 ## 🤖 AI & ML Projects
+### 🔹 Simple Sklearn Models
 - [Diabetes Predictor (ML)](https://github.com/AryaJeet1364/MLProjects/blob/main/DiabetesPredictor.ipynb)
 - [Fake News Predictor (ML)](https://github.com/AryaJeet1364/MLProjects/blob/main/FakeNewsPredictor.ipynb)
-- [Sentiment Analysis (NLP-NLTK)](https://github.com/AryaJeet1364/SentimentAnalysis)
-- [LinearRegression(PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/LinearRegression.ipynb)
-- [MNISTDigitClassification(PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/MNISTDigitClassification.ipynb)
+
+### 🔹 NLP with NLTK
+- [Sentiment Analysis (NLP - NLTK)](https://github.com/AryaJeet1364/SentimentAnalysis)
+
+### 🔹 PyTorch Projects
+- [Linear Regression (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/LinearRegression.ipynb)
+- [MNIST Digit Classification (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/MNISTDigitClassification.ipynb)
+
+### 🔹 Gemini API (Generative AI)
 - [Code Review AI (Gemini API)](https://github.com/AryaJeet1364/CodeReview)
 - [Vitals Review AI (Gemini API)](https://github.com/AryaJeet1364/VitalsReview)
+
+### 🔹 Hugging Face Transformers (Pretrained Models)
+- [Text Classification using BERT (Spam Detection)](https://github.com/AryaJeet1364/HuggingFace_Projects/blob/main/TextClassificationHuggingFace.ipynb)  
+  _Model: `prithivMLmods/Spam-Bert-Uncased`_
+- [Sentiment Analysis using DistilBERT](https://github.com/AryaJeet1364/HuggingFace_Projects/blob/main/SentimentAnalysisHuggingFace.ipynb)  
+  _Model: `distilbert-base-uncased-finetuned-sst-2-english`_
+- [Question Answering using DistilBERT](https://github.com/AryaJeet1364/HuggingFace_Projects/blob/main/QuestionAnsweringHuggingFace.ipynb)  
+  _Model: `distilbert-base-cased-distilled-squad`_
+- [Text Summarization using Pegasus](https://github.com/AryaJeet1364/HuggingFace_Projects/blob/main/TextSummarizationHuggingFace.ipynb)  
+  _Model: `google/pegasus-cnn_dailymail`_
+- [English <-> Hindi Translation using HPLT](https://github.com/AryaJeet1364/HuggingFace_Projects/blob/main/Text2TextTranslateHuggingFace.ipynb)  
+  _Model: `HPLT/translate-en-hi-v1.0-hplt_opus`_ & `HPLT/translate-hi-en-v1.0-hplt_opus`_
+- [Text-to-Image Generation using Stable Diffusion](https://github.com/AryaJeet1364/HuggingFace_Projects/blob/main/Text2ImgHuggingFace.ipynb)  
+  _Model: `CompVis/stable-diffusion-v1-4`_
 
 ## 🌐 Web Development (Frontend/Backend/Both)
 - [Web Chat App (FullStack)](https://github.com/AryaJeet1364/ChatApplication)
