@@ -11,6 +11,7 @@
 ### 🔹 PyTorch Projects
 - [Linear Regression (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/LinearRegression.ipynb)
 - [MNIST Digit Classification (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/MNISTDigitClassification.ipynb)
+- [CIFAR-10 CNN Implementation (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/CIFAR_10_CNN.ipynb)
 
 ### 🔹 Gemini API (Generative AI)
 - [Code Review AI (Gemini API)](https://github.com/AryaJeet1364/CodeReview)
@@ -29,6 +30,9 @@
   _Model: `HPLT/translate-en-hi-v1.0-hplt_opus`_ & `HPLT/translate-hi-en-v1.0-hplt_opus`_
 - [Text-to-Image Generation using Stable Diffusion](https://github.com/AryaJeet1364/HuggingFace_Projects/blob/main/Text2ImgHuggingFace.ipynb)  
   _Model: `CompVis/stable-diffusion-v1-4`_
+
+### 🔹 Research Paper from Scratch
+- [Transformers - Attention is All you Need (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/TransformersfromScratch.ipynb)
 
 ## 🌐 Web Development (Frontend/Backend/Both)
 - [Web Chat App (FullStack)](https://github.com/AryaJeet1364/ChatApplication)
