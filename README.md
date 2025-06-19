@@ -35,6 +35,7 @@
 - [Transformers - Attention is All you Need (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/TransformersfromScratch.ipynb)
 
 ## 🌐 Web Development (Frontend/Backend/Both)
+- [NotesTaking App w Rate Limiting (Fullstack)](https://github.com/AryaJeet1364/NoteTaking)
 - [Web Chat App (FullStack)](https://github.com/AryaJeet1364/ChatApplication)
 - [Restaurant (Frontend)](https://github.com/AryaJeet1364/RestaurantWebsite)
 - [Portfolio (HTML,CSS,JS)](https://github.com/AryaJeet1364/Portfolio)
