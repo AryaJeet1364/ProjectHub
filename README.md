@@ -31,6 +31,13 @@
 - [Text-to-Image Generation using Stable Diffusion](https://github.com/AryaJeet1364/HuggingFace_Projects/blob/main/Text2ImgHuggingFace.ipynb)  
   _Model: `CompVis/stable-diffusion-v1-4`_
 
+### 🔹 Vector Database
+- [ChromaDB Hands-on](https://github.com/AryaJeet1364/VectorDBs/blob/main/ChromaDB.ipynb)
+- [PineCone Hands-on](https://github.com/AryaJeet1364/VectorDBs/blob/main/PineconeVectorDB.ipynb)
+
+### 🔹 LangChain
+- [LangChain with HuggingFace](https://github.com/AryaJeet1364/LangChain_Projects)
+
 ### 🔹 Research Paper from Scratch
 - [Transformers - Attention is All you Need (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/TransformersfromScratch.ipynb)
 
