@@ -36,7 +36,8 @@
 - [PineCone Hands-on](https://github.com/AryaJeet1364/VectorDBs/blob/main/PineconeVectorDB.ipynb)
 
 ### 🔹 LangChain
-- [LangChain with HuggingFace](https://github.com/AryaJeet1364/LangChain_Projects)
+- [LangChain with HuggingFace](https://github.com/AryaJeet1364/LangChain_Projects/blob/main/LangChainwHuggingFace.ipynb)
+- [PDFChatBot w HuggingFace Model](https://github.com/AryaJeet1364/LangChain_Projects/blob/main/PDFChatBotLangChainwHF.ipynb)
 
 ### 🔹 Research Paper from Scratch
 - [Transformers - Attention is All you Need (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/TransformersfromScratch.ipynb)
