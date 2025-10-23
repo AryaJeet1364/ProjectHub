@@ -1,5 +1,15 @@
 # ProjectHub
 
+## 🖥 All Hosted projects
+- [Smart Task Planner (AI + FullStack MERN)](https://smart-task-planner-a2l6.vercel.app/)
+- [PDFChatBot (HFSpaces)](https://huggingface.co/spaces/Aryajeet/PDFChatBot)
+- [NoteTaking MERN app](https://github.com/AryaJeet1364/NoteTaking)
+- [My contribution in CodeCortex Hackathon (React.js)](https://nexus-nfc.vercel.app/)
+- [My Portfolio (HTML, CSS, JS)](https://portfolio-aryajeet-jha.vercel.app/)
+- [ToDo List (React.js)](https://todolist-umber-omega.vercel.app/)
+- [Restaurant Frontend (React.js)](https://bistrocafeproject.vercel.app/)
+
+  
 ## 🤖 AI & ML Projects
 ### 🔹 Simple Sklearn Models
 - [Diabetes Predictor (ML)](https://github.com/AryaJeet1364/MLProjects/blob/main/DiabetesPredictor.ipynb)
