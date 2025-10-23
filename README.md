@@ -14,8 +14,10 @@
 - [CIFAR-10 CNN Implementation (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/CIFAR_10_CNN.ipynb)
 
 ### 🔹 Gemini API (Generative AI)
+- [Smart Task Planner (Gemini API, hosted on Vercel)](https://github.com/AryaJeet1364/SmartTaskPlanner)
 - [Code Review AI (Gemini API)](https://github.com/AryaJeet1364/CodeReview)
 - [Vitals Review AI (Gemini API)](https://github.com/AryaJeet1364/VitalsReview)
+
 
 ### 🔹 Hugging Face Transformers (Pretrained Models)
 - [Text Classification using BERT (Spam Detection)](https://github.com/AryaJeet1364/HuggingFace_Projects/blob/main/TextClassificationHuggingFace.ipynb)  
@@ -52,6 +54,7 @@
   
 ## 📡 IoT Projects
 - [IOT (Tinkercad sim)](https://github.com/AryaJeet1364/IoTProjects)
+- [DataNotifier using DHT sensor, ESP32, MQTT via Node-Red](https://github.com/AryaJeet1364/IOTNotifier)
 
 ## 💻 Quantum Computing Projects - Qiskit in Google Colab
 - [Single Qubit Gates](https://github.com/AryaJeet1364/QuantumComputing/blob/main/SingleQubitGatesinQiskit.ipynb)
