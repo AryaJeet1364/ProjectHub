@@ -1,7 +1,7 @@
 # ProjectHub
 
 ## 🖥 Portfolio
-- [Portfolio(React.js)](https://aryajeet-portfolio.vercel.app/)
+- [Portfolio(React.js)](https://warmsprings-dev.vercel.app/)
 
 ## 🖥 All Hosted projects
 - [Smart Task Planner (AI + FullStack MERN)](https://smart-task-planner-a2l6.vercel.app/)
