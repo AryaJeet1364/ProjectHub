@@ -1,17 +1,36 @@
 # ProjectHub
 
 ## 🖥 Portfolio
-- [Portfolio(React.js)](https://warmsprings-dev.vercel.app/)
+- [Portfolio](https://aryajeet-jha-portfolio.vercel.app/)
 
 ## 🖥 All Hosted projects
+- [QueueCure Hackathon Submission](https://queue-cure-bay.vercel.app/)
 - [Smart Task Planner (AI + FullStack MERN)](https://smart-task-planner-a2l6.vercel.app/)
 - [PDFChatBot (HFSpaces)](https://huggingface.co/spaces/Aryajeet/PDFChatBot)
 - [NoteTaking MERN app](https://github.com/AryaJeet1364/NoteTaking)
 - [My contribution in CodeCortex Hackathon (React.js)](https://nexus-nfc.vercel.app/)
-- [My Portfolio (HTML, CSS, JS)](https://portfolio-aryajeet-jha.vercel.app/)
 - [ToDo List (React.js)](https://todolist-umber-omega.vercel.app/)
 - [Restaurant Frontend (React.js)](https://bistrocafeproject.vercel.app/)
 
+## 🖥 All Hackathon contributions
+- [QueueCure Hackathon Submission](https://github.com/AryaJeet1364/QueueCure)
+- [RedRob Hackathon INDIA.RUNS Submission](https://github.com/AryaJeet1364/redrob-ranker)
+- [Innomax 2026 by Thermax Limited - Digital Twin Submission](https://github.com/AryaJeet1364/DigitalTwin_Thermax)
+- [Devjams Hackathon (My contribution)](https://github.com/AryaJeet1364/DevJams)
+- [CodeCortex (My contribution)](https://github.com/AryaJeet1364/CodeCortex)
+- [There were more in my previous laptop, got deleted, data corrupted]
+
+
+## 🌐 Web Development (Frontend/Backend/Both)
+- [Distributed System - Message Queue (Backend)](https://github.com/AryaJeet1364/MessageQueue)
+- [BankingSystem using Ledger (BackEnd)](https://github.com/AryaJeet1364/BankingSystem)
+- [NotesTaking App w Rate Limiting (Fullstack)](https://github.com/AryaJeet1364/NoteTaking)
+- [Web Chat App (FullStack)](https://github.com/AryaJeet1364/ChatApplication)
+- [Restaurant (Frontend)](https://github.com/AryaJeet1364/RestaurantWebsite)
+- [Portfolio (HTML,CSS,JS)](https://github.com/AryaJeet1364/Portfolio)
+- [Map-Tracker (FullStack)](https://github.com/AryaJeet1364/MapTracker)
+- [Book Store (FullStack)](https://github.com/AryaJeet1364/BookStore)
+- [AI Code Review](https://github.com/AryaJeet1364/CodeReview)
   
 ## 🤖 AI & ML Projects
 ### 🔹 Simple Sklearn Models
@@ -57,14 +76,7 @@
 ### 🔹 Research Paper from Scratch
 - [Transformers - Attention is All you Need (PyTorch)](https://github.com/AryaJeet1364/PyTorch_Projects/blob/main/TransformersfromScratch.ipynb)
 
-## 🌐 Web Development (Frontend/Backend/Both)
-- [NotesTaking App w Rate Limiting (Fullstack)](https://github.com/AryaJeet1364/NoteTaking)
-- [Web Chat App (FullStack)](https://github.com/AryaJeet1364/ChatApplication)
-- [Restaurant (Frontend)](https://github.com/AryaJeet1364/RestaurantWebsite)
-- [Portfolio (HTML,CSS,JS)](https://github.com/AryaJeet1364/Portfolio)
-- [Map-Tracker (FullStack)](https://github.com/AryaJeet1364/MapTracker)
-- [Book Store (FullStack)](https://github.com/AryaJeet1364/BookStore)
-- [BankingSystem using Ledger (BackEnd)](https://github.com/AryaJeet1364/BankingSystem)
+
   
 ## 📡 IoT Projects
 - [IOT (Tinkercad sim)](https://github.com/AryaJeet1364/IoTProjects)
@@ -79,5 +91,3 @@
 
 ## Other Projects
 - [Chess Engine](https://github.com/AryaJeet1364/ChessEngine)
-- [Devjams Hackathon (My contribution)](https://github.com/AryaJeet1364/DevJams)
-- [CodeCortex (My contribution)](https://github.com/AryaJeet1364/CodeCortex)
